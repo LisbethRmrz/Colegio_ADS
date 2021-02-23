@@ -1,0 +1,486 @@
+C:\Users\Lisbeth\Desktop\ProyectoADS1.0\Proyectov1.0\Proyectov1.0\bin\Debug\Proyectov1.0.exe.config
+C:\Users\Lisbeth\Desktop\ProyectoADS1.0\Proyectov1.0\Proyectov1.0\bin\Debug\Proyectov1.0.exe
+C:\Users\Lisbeth\Desktop\ProyectoADS1.0\Proyectov1.0\Proyectov1.0\bin\Debug\Proyectov1.0.pdb
+C:\Users\Lisbeth\Desktop\ProyectoADS1.0\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1.0.csprojResolveAssemblyReference.cache
+C:\Users\Lisbeth\Desktop\ProyectoADS1.0\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Form1.resources
+C:\Users\Lisbeth\Desktop\ProyectoADS1.0\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Properties.Resources.resources
+C:\Users\Lisbeth\Desktop\ProyectoADS1.0\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1.0.csproj.GenerateResource.Cache
+C:\Users\Lisbeth\Desktop\ProyectoADS1.0\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1.0.exe
+C:\Users\Lisbeth\Desktop\ProyectoADS1.0\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1.0.pdb
+C:\Users\Lisbeth\Desktop\ProyectoADS1.0\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Primer_Grado.resources
+C:\Users\Lisbeth\Desktop\ProyectoADS1.0\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Segundo_Grado.resources
+C:\Users\Lisbeth\Desktop\ProyectoADS1.0\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Tercer_Grado.resources
+C:\Users\Lisbeth\Desktop\ProyectoADS1.0\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Cuarto_Grado.resources
+C:\Users\Lisbeth\Desktop\ProyectoADS1.0\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Quinto_Grado.resources
+C:\Users\Lisbeth\Desktop\ProyectoADS1.0\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Sexto_Grado.resources
+C:\Users\Lisbeth\Desktop\ProyectoADS1.0\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.inicioalumnos.resources
+C:\Users\Lisbeth\Desktop\ProyectoADS1.0\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Docentes.resources
+C:\Users\Lisbeth\Desktop\ProyectoADS1.0\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.MenuPrincipal.resources
+C:\Users\Lisbeth\Desktop\ProyectoADS1.1\Proyectov1.0\Proyectov1.0\bin\Debug\Proyectov1.0.exe.config
+C:\Users\Lisbeth\Desktop\ProyectoADS1.1\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1.0.exe
+C:\Users\Lisbeth\Desktop\ProyectoADS1.1\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1.0.pdb
+C:\Users\Lisbeth\Desktop\ProyectoADSv2.0\Proyectov1.0\Proyectov1.0\bin\Debug\Proyectov1.0.exe.config
+C:\Users\Lisbeth\Desktop\ProyectoADSv2.0\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1.0.exe
+C:\Users\Lisbeth\Desktop\ProyectoADSv2.0\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1.0.pdb
+C:\Users\Lisbeth\Desktop\ProyectoADSv2.0\Proyectov1.0\Proyectov1.0\bin\Debug\Proyectov1.0.exe
+C:\Users\Lisbeth\Desktop\ProyectoADSv2.0\Proyectov1.0\Proyectov1.0\bin\Debug\Proyectov1.0.pdb
+C:\Users\Lisbeth\Desktop\ProyectoADSv2.0\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1.0.csprojResolveAssemblyReference.cache
+C:\Users\Lisbeth\Desktop\ProyectoADSv2.0\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Cuarto_Grado.resources
+C:\Users\Lisbeth\Desktop\ProyectoADSv2.0\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Docentes.resources
+C:\Users\Lisbeth\Desktop\ProyectoADSv2.0\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.inicioalumnos.resources
+C:\Users\Lisbeth\Desktop\ProyectoADSv2.0\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.MenuPrincipal.resources
+C:\Users\Lisbeth\Desktop\ProyectoADSv2.0\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Primer_Grado.resources
+C:\Users\Lisbeth\Desktop\ProyectoADSv2.0\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Properties.Resources.resources
+C:\Users\Lisbeth\Desktop\ProyectoADSv2.0\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Quinto_Grado.resources
+C:\Users\Lisbeth\Desktop\ProyectoADSv2.0\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Segundo_Grado.resources
+C:\Users\Lisbeth\Desktop\ProyectoADSv2.0\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Sexto_Grado.resources
+C:\Users\Lisbeth\Desktop\ProyectoADSv2.0\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Tercer_Grado.resources
+C:\Users\Lisbeth\Desktop\ProyectoADSv2.0\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1.0.csproj.GenerateResource.Cache
+C:\Users\Lisbeth\Desktop\ProyectoADSv2.0\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.alumnos.resources
+C:\Users\Lisbeth\Desktop\ProyectoADSv2.0\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Login.resources
+C:\Users\Lisbeth\Desktop\ProyectoADSv2.0\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.MenuSecretaria.resources
+C:\Users\jr908\Desktop\ProyectoADSv2.1\Proyectov1.0\Proyectov1.0\bin\Debug\Proyectov1.0.exe.config
+C:\Users\jr908\Desktop\ProyectoADSv2.1\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1.0.exe
+C:\Users\jr908\Desktop\ProyectoADSv2.1\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1.0.pdb
+C:\Users\jr908\Desktop\ProyectoADSv2.1\Proyectov1.0\Proyectov1.0\bin\Debug\Proyectov1.0.exe
+C:\Users\jr908\Desktop\ProyectoADSv2.1\Proyectov1.0\Proyectov1.0\bin\Debug\Proyectov1.0.pdb
+C:\Users\jr908\Desktop\ProyectoADSv2.1\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1.0.csprojResolveAssemblyReference.cache
+C:\Users\jr908\Desktop\ProyectoADSv2.1\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.alumnos.resources
+C:\Users\jr908\Desktop\ProyectoADSv2.1\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Cuarto_Grado.resources
+C:\Users\jr908\Desktop\ProyectoADSv2.1\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Docentes.resources
+C:\Users\jr908\Desktop\ProyectoADSv2.1\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.inicioalumnos.resources
+C:\Users\jr908\Desktop\ProyectoADSv2.1\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Login.resources
+C:\Users\jr908\Desktop\ProyectoADSv2.1\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.MenuPrincipal.resources
+C:\Users\jr908\Desktop\ProyectoADSv2.1\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.MenuSecretaria.resources
+C:\Users\jr908\Desktop\ProyectoADSv2.1\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Primer_Grado.resources
+C:\Users\jr908\Desktop\ProyectoADSv2.1\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Properties.Resources.resources
+C:\Users\jr908\Desktop\ProyectoADSv2.1\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Quinto_Grado.resources
+C:\Users\jr908\Desktop\ProyectoADSv2.1\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Segundo_Grado.resources
+C:\Users\jr908\Desktop\ProyectoADSv2.1\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Sexto_Grado.resources
+C:\Users\jr908\Desktop\ProyectoADSv2.1\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Tercer_Grado.resources
+C:\Users\jr908\Desktop\ProyectoADSv2.1\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1.0.csproj.GenerateResource.Cache
+C:\Users\USUARIO\Desktop\ProyectoADSv2.1\Proyectov1.0\Proyectov1.0\bin\Debug\Proyectov1.0.exe.config
+C:\Users\USUARIO\Desktop\ProyectoADSv2.1\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1.0.exe
+C:\Users\USUARIO\Desktop\ProyectoADSv2.1\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1.0.pdb
+C:\Users\USUARIO\Desktop\ProyectoADSv2.1\Proyectov1.0\Proyectov1.0\bin\Debug\Proyectov1.0.exe
+C:\Users\USUARIO\Desktop\ProyectoADSv2.1\Proyectov1.0\Proyectov1.0\bin\Debug\Proyectov1.0.pdb
+C:\Users\USUARIO\Desktop\ProyectoADSv2.1\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1.0.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Desktop\ProyectoADSv2.1\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.alumnos.resources
+C:\Users\USUARIO\Desktop\ProyectoADSv2.1\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Cuarto_Grado.resources
+C:\Users\USUARIO\Desktop\ProyectoADSv2.1\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Docentes.resources
+C:\Users\USUARIO\Desktop\ProyectoADSv2.1\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.inicioalumnos.resources
+C:\Users\USUARIO\Desktop\ProyectoADSv2.1\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Login.resources
+C:\Users\USUARIO\Desktop\ProyectoADSv2.1\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.MenuPrincipal.resources
+C:\Users\USUARIO\Desktop\ProyectoADSv2.1\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.MenuSecretaria.resources
+C:\Users\USUARIO\Desktop\ProyectoADSv2.1\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Primer_Grado.resources
+C:\Users\USUARIO\Desktop\ProyectoADSv2.1\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\ProyectoADSv2.1\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Quinto_Grado.resources
+C:\Users\USUARIO\Desktop\ProyectoADSv2.1\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Segundo_Grado.resources
+C:\Users\USUARIO\Desktop\ProyectoADSv2.1\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Sexto_Grado.resources
+C:\Users\USUARIO\Desktop\ProyectoADSv2.1\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Tercer_Grado.resources
+C:\Users\USUARIO\Desktop\ProyectoADSv2.1\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1.0.csproj.GenerateResource.Cache
+C:\Users\josem\Desktop\ProyectoADSv2.1\Proyectov1.0\Proyectov1.0\bin\Debug\Proyectov1.0.exe.config
+C:\Users\josem\Desktop\ProyectoADSv2.1\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1.0.exe
+C:\Users\josem\Desktop\ProyectoADSv2.1\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1.0.pdb
+C:\Users\josem\Desktop\ProyectoADSv2.1\Proyectov1.0\Proyectov1.0\bin\Debug\Proyectov1.0.exe
+C:\Users\josem\Desktop\ProyectoADSv2.1\Proyectov1.0\Proyectov1.0\bin\Debug\Proyectov1.0.pdb
+C:\Users\josem\Desktop\ProyectoADSv2.1\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1.0.csprojResolveAssemblyReference.cache
+C:\Users\josem\Desktop\ProyectoADSv2.1\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.alumnos.resources
+C:\Users\josem\Desktop\ProyectoADSv2.1\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Cuarto_Grado.resources
+C:\Users\josem\Desktop\ProyectoADSv2.1\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Docentes.resources
+C:\Users\josem\Desktop\ProyectoADSv2.1\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.inicioalumnos.resources
+C:\Users\josem\Desktop\ProyectoADSv2.1\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Login.resources
+C:\Users\josem\Desktop\ProyectoADSv2.1\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.MenuPrincipal.resources
+C:\Users\josem\Desktop\ProyectoADSv2.1\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.MenuSecretaria.resources
+C:\Users\josem\Desktop\ProyectoADSv2.1\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Primer_Grado.resources
+C:\Users\josem\Desktop\ProyectoADSv2.1\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Properties.Resources.resources
+C:\Users\josem\Desktop\ProyectoADSv2.1\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Quinto_Grado.resources
+C:\Users\josem\Desktop\ProyectoADSv2.1\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Segundo_Grado.resources
+C:\Users\josem\Desktop\ProyectoADSv2.1\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Sexto_Grado.resources
+C:\Users\josem\Desktop\ProyectoADSv2.1\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Tercer_Grado.resources
+C:\Users\josem\Desktop\ProyectoADSv2.1\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1.0.csproj.GenerateResource.Cache
+C:\Users\josem\Desktop\ADS\ProyectoADSv2.1\Proyectov1.0\Proyectov1.0\bin\Debug\Proyectov1.0.exe.config
+C:\Users\josem\Desktop\ADS\ProyectoADSv2.1\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1.0.exe
+C:\Users\josem\Desktop\ADS\ProyectoADSv2.1\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1.0.pdb
+C:\Users\josem\Desktop\ADS\ProyectoADSv2.1\Proyectov1.0\Proyectov1.0\bin\Debug\Proyectov1.0.exe
+C:\Users\josem\Desktop\ADS\ProyectoADSv2.1\Proyectov1.0\Proyectov1.0\bin\Debug\Proyectov1.0.pdb
+C:\Users\josem\Desktop\ADS\ProyectoADSv2.1\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1.0.csprojResolveAssemblyReference.cache
+C:\Users\josem\Desktop\ADS\ProyectoADSv2.1\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.alumnos.resources
+C:\Users\josem\Desktop\ADS\ProyectoADSv2.1\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Cuarto_Grado.resources
+C:\Users\josem\Desktop\ADS\ProyectoADSv2.1\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Docentes.resources
+C:\Users\josem\Desktop\ADS\ProyectoADSv2.1\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.inicioalumnos.resources
+C:\Users\josem\Desktop\ADS\ProyectoADSv2.1\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Login.resources
+C:\Users\josem\Desktop\ADS\ProyectoADSv2.1\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.MenuPrincipal.resources
+C:\Users\josem\Desktop\ADS\ProyectoADSv2.1\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.MenuSecretaria.resources
+C:\Users\josem\Desktop\ADS\ProyectoADSv2.1\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Primer_Grado.resources
+C:\Users\josem\Desktop\ADS\ProyectoADSv2.1\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Properties.Resources.resources
+C:\Users\josem\Desktop\ADS\ProyectoADSv2.1\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Quinto_Grado.resources
+C:\Users\josem\Desktop\ADS\ProyectoADSv2.1\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Segundo_Grado.resources
+C:\Users\josem\Desktop\ADS\ProyectoADSv2.1\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Sexto_Grado.resources
+C:\Users\josem\Desktop\ADS\ProyectoADSv2.1\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Tercer_Grado.resources
+C:\Users\josem\Desktop\ADS\ProyectoADSv2.1\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1.0.csproj.GenerateResource.Cache
+C:\Users\jr908\Desktop\STEVEN\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\bin\Debug\Proyectov1.0.exe.config
+C:\Users\jr908\Desktop\STEVEN\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1.0.exe
+C:\Users\jr908\Desktop\STEVEN\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1.0.pdb
+C:\Users\jr908\Desktop\STEVEN\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\bin\Debug\Proyectov1.0.exe
+C:\Users\jr908\Desktop\STEVEN\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\bin\Debug\Proyectov1.0.pdb
+C:\Users\jr908\Desktop\STEVEN\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.alumnos.resources
+C:\Users\jr908\Desktop\STEVEN\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Cuarto_Grado.resources
+C:\Users\jr908\Desktop\STEVEN\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Docentes.resources
+C:\Users\jr908\Desktop\STEVEN\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.inicioalumnos.resources
+C:\Users\jr908\Desktop\STEVEN\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Login.resources
+C:\Users\jr908\Desktop\STEVEN\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.MenuPrincipal.resources
+C:\Users\jr908\Desktop\STEVEN\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.MenuSecretaria.resources
+C:\Users\jr908\Desktop\STEVEN\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Primer_Grado.resources
+C:\Users\jr908\Desktop\STEVEN\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Properties.Resources.resources
+C:\Users\jr908\Desktop\STEVEN\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Quinto_Grado.resources
+C:\Users\jr908\Desktop\STEVEN\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Segundo_Grado.resources
+C:\Users\jr908\Desktop\STEVEN\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Sexto_Grado.resources
+C:\Users\jr908\Desktop\STEVEN\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Tercer_Grado.resources
+C:\Users\jr908\Desktop\STEVEN\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1.0.csproj.GenerateResource.Cache
+G:\STEVEN PROYECTO\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\bin\Debug\Proyectov1.0.exe.config
+G:\STEVEN PROYECTO\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1.0.exe
+G:\STEVEN PROYECTO\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1.0.pdb
+G:\STEVEN PROYECTO\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\bin\Debug\Proyectov1.0.exe
+G:\STEVEN PROYECTO\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\bin\Debug\Proyectov1.0.pdb
+G:\STEVEN PROYECTO\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1.0.csprojResolveAssemblyReference.cache
+G:\STEVEN PROYECTO\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.alumnos.resources
+G:\STEVEN PROYECTO\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Cuarto_Grado.resources
+G:\STEVEN PROYECTO\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Docentes.resources
+G:\STEVEN PROYECTO\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.inicioalumnos.resources
+G:\STEVEN PROYECTO\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Login.resources
+G:\STEVEN PROYECTO\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.MenuPrincipal.resources
+G:\STEVEN PROYECTO\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.MenuSecretaria.resources
+G:\STEVEN PROYECTO\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Primer_Grado.resources
+G:\STEVEN PROYECTO\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Properties.Resources.resources
+G:\STEVEN PROYECTO\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Quinto_Grado.resources
+G:\STEVEN PROYECTO\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Segundo_Grado.resources
+G:\STEVEN PROYECTO\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Sexto_Grado.resources
+G:\STEVEN PROYECTO\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Tercer_Grado.resources
+G:\STEVEN PROYECTO\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1.0.csproj.GenerateResource.Cache
+C:\Users\josem\Desktop\Actualizado 5-4-19\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\bin\Debug\Proyectov1.0.exe.config
+C:\Users\josem\Desktop\Actualizado 5-4-19\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1.0.exe
+C:\Users\josem\Desktop\Actualizado 5-4-19\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1.0.pdb
+E:\Actualizado 5-4-19\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\bin\Debug\Proyectov1.0.exe.config
+E:\Actualizado 5-4-19\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1.0.exe
+E:\Actualizado 5-4-19\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1.0.pdb
+E:\Actualizado 5-4-19\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\bin\Debug\Proyectov1.0.exe
+E:\Actualizado 5-4-19\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\bin\Debug\Proyectov1.0.pdb
+E:\Actualizado 5-4-19\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1.0.csprojResolveAssemblyReference.cache
+E:\Actualizado 5-4-19\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.alumnos.resources
+E:\Actualizado 5-4-19\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Cuarto_Grado.resources
+E:\Actualizado 5-4-19\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Docentes.resources
+E:\Actualizado 5-4-19\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.inicioalumnos.resources
+E:\Actualizado 5-4-19\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Login.resources
+E:\Actualizado 5-4-19\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.MenuPrincipal.resources
+E:\Actualizado 5-4-19\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.MenuSecretaria.resources
+E:\Actualizado 5-4-19\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Primer_Grado.resources
+E:\Actualizado 5-4-19\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Properties.Resources.resources
+E:\Actualizado 5-4-19\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Quinto_Grado.resources
+E:\Actualizado 5-4-19\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Segundo_Grado.resources
+E:\Actualizado 5-4-19\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Sexto_Grado.resources
+E:\Actualizado 5-4-19\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Tercer_Grado.resources
+E:\Actualizado 5-4-19\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1.0.csproj.GenerateResource.Cache
+F:\Actualizado 5-4-19\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\bin\Debug\Proyectov1.0.exe.config
+F:\Actualizado 5-4-19\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1.0.exe
+F:\Actualizado 5-4-19\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1.0.pdb
+F:\Actualizado 5-4-19\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\bin\Debug\Proyectov1.0.exe
+F:\Actualizado 5-4-19\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\bin\Debug\Proyectov1.0.pdb
+F:\Actualizado 5-4-19\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1.0.csprojResolveAssemblyReference.cache
+F:\Actualizado 5-4-19\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.alumnos.resources
+F:\Actualizado 5-4-19\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Cuarto_Grado.resources
+F:\Actualizado 5-4-19\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Docentes.resources
+F:\Actualizado 5-4-19\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.inicioalumnos.resources
+F:\Actualizado 5-4-19\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Login.resources
+F:\Actualizado 5-4-19\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.MenuPrincipal.resources
+F:\Actualizado 5-4-19\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.MenuSecretaria.resources
+F:\Actualizado 5-4-19\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Primer_Grado.resources
+F:\Actualizado 5-4-19\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Properties.Resources.resources
+F:\Actualizado 5-4-19\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Quinto_Grado.resources
+F:\Actualizado 5-4-19\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Segundo_Grado.resources
+F:\Actualizado 5-4-19\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Sexto_Grado.resources
+F:\Actualizado 5-4-19\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Tercer_Grado.resources
+F:\Actualizado 5-4-19\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1.0.csproj.GenerateResource.Cache
+C:\Users\josem\Desktop\Actualizado 5-4-19\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\bin\Debug\Proyectov1.0.exe
+C:\Users\josem\Desktop\Actualizado 5-4-19\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\bin\Debug\Proyectov1.0.pdb
+C:\Users\josem\Desktop\Actualizado 5-4-19\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1.0.csprojResolveAssemblyReference.cache
+C:\Users\josem\Desktop\Actualizado 5-4-19\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.alumnos.resources
+C:\Users\josem\Desktop\Actualizado 5-4-19\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Cuarto_Grado.resources
+C:\Users\josem\Desktop\Actualizado 5-4-19\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Docentes.resources
+C:\Users\josem\Desktop\Actualizado 5-4-19\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.inicioalumnos.resources
+C:\Users\josem\Desktop\Actualizado 5-4-19\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Login.resources
+C:\Users\josem\Desktop\Actualizado 5-4-19\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.MenuPrincipal.resources
+C:\Users\josem\Desktop\Actualizado 5-4-19\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.MenuSecretaria.resources
+C:\Users\josem\Desktop\Actualizado 5-4-19\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Primer_Grado.resources
+C:\Users\josem\Desktop\Actualizado 5-4-19\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Properties.Resources.resources
+C:\Users\josem\Desktop\Actualizado 5-4-19\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Quinto_Grado.resources
+C:\Users\josem\Desktop\Actualizado 5-4-19\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Segundo_Grado.resources
+C:\Users\josem\Desktop\Actualizado 5-4-19\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Sexto_Grado.resources
+C:\Users\josem\Desktop\Actualizado 5-4-19\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Tercer_Grado.resources
+C:\Users\josem\Desktop\Actualizado 5-4-19\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1.0.csproj.GenerateResource.Cache
+C:\Users\josem\Desktop\Actualizado 11-04-19\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\bin\Debug\Proyectov1.0.exe.config
+C:\Users\josem\Desktop\Actualizado 11-04-19\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1.0.exe
+C:\Users\josem\Desktop\Actualizado 11-04-19\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1.0.pdb
+C:\Users\josem\Desktop\Actualizado 11-04-19\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\bin\Debug\Proyectov1.0.exe
+C:\Users\josem\Desktop\Actualizado 11-04-19\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\bin\Debug\Proyectov1.0.pdb
+C:\Users\josem\Desktop\Actualizado 11-04-19\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1.0.csprojResolveAssemblyReference.cache
+C:\Users\josem\Desktop\Actualizado 11-04-19\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.alumnos.resources
+C:\Users\josem\Desktop\Actualizado 11-04-19\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Cuarto_Grado.resources
+C:\Users\josem\Desktop\Actualizado 11-04-19\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Docentes.resources
+C:\Users\josem\Desktop\Actualizado 11-04-19\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.inicioalumnos.resources
+C:\Users\josem\Desktop\Actualizado 11-04-19\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Login.resources
+C:\Users\josem\Desktop\Actualizado 11-04-19\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.MenuPrincipal.resources
+C:\Users\josem\Desktop\Actualizado 11-04-19\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Primer_Grado.resources
+C:\Users\josem\Desktop\Actualizado 11-04-19\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Properties.Resources.resources
+C:\Users\josem\Desktop\Actualizado 11-04-19\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Quinto_Grado.resources
+C:\Users\josem\Desktop\Actualizado 11-04-19\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Segundo_Grado.resources
+C:\Users\josem\Desktop\Actualizado 11-04-19\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Sexto_Grado.resources
+C:\Users\josem\Desktop\Actualizado 11-04-19\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Tercer_Grado.resources
+C:\Users\josem\Desktop\Actualizado 11-04-19\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1.0.csproj.GenerateResource.Cache
+C:\Users\josem\Desktop\Actualizado 11-04-19\ProyectoADSv2.1 ACTUALIZADO 2-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.MenuDocente.resources
+C:\Users\jr908\Desktop\Actualizado 23-04-19\ProyectoADSv2.1 ACTUALIZADO 23-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.alumnos.resources
+C:\Users\jr908\Desktop\Actualizado 23-04-19\ProyectoADSv2.1 ACTUALIZADO 23-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Cuarto_Grado.resources
+C:\Users\jr908\Desktop\Actualizado 23-04-19\ProyectoADSv2.1 ACTUALIZADO 23-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Docentes.resources
+C:\Users\jr908\Desktop\Actualizado 23-04-19\ProyectoADSv2.1 ACTUALIZADO 23-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.inicioalumnos.resources
+C:\Users\jr908\Desktop\Actualizado 23-04-19\ProyectoADSv2.1 ACTUALIZADO 23-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Login.resources
+C:\Users\jr908\Desktop\Actualizado 23-04-19\ProyectoADSv2.1 ACTUALIZADO 23-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.MenuPrincipal.resources
+C:\Users\jr908\Desktop\Actualizado 23-04-19\ProyectoADSv2.1 ACTUALIZADO 23-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.MenuDocente.resources
+C:\Users\jr908\Desktop\Actualizado 23-04-19\ProyectoADSv2.1 ACTUALIZADO 23-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Primer_Grado.resources
+C:\Users\jr908\Desktop\Actualizado 23-04-19\ProyectoADSv2.1 ACTUALIZADO 23-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Properties.Resources.resources
+C:\Users\jr908\Desktop\Actualizado 23-04-19\ProyectoADSv2.1 ACTUALIZADO 23-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Quinto_Grado.resources
+C:\Users\jr908\Desktop\Actualizado 23-04-19\ProyectoADSv2.1 ACTUALIZADO 23-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Segundo_Grado.resources
+C:\Users\jr908\Desktop\Actualizado 23-04-19\ProyectoADSv2.1 ACTUALIZADO 23-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Sexto_Grado.resources
+C:\Users\jr908\Desktop\Actualizado 23-04-19\ProyectoADSv2.1 ACTUALIZADO 23-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Tercer_Grado.resources
+C:\Users\jr908\Desktop\Actualizado 23-04-19\ProyectoADSv2.1 ACTUALIZADO 23-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1.0.csproj.GenerateResource.Cache
+C:\Users\jr908\Desktop\Actualizado 23-04-19\ProyectoADSv2.1 ACTUALIZADO 23-4-19\Proyectov1.0\Proyectov1.0\bin\Debug\Proyectov1.0.exe.config
+C:\Users\jr908\Desktop\Actualizado 23-04-19\ProyectoADSv2.1 ACTUALIZADO 23-4-19\Proyectov1.0\Proyectov1.0\bin\Debug\Proyectov1.0.exe
+C:\Users\jr908\Desktop\Actualizado 23-04-19\ProyectoADSv2.1 ACTUALIZADO 23-4-19\Proyectov1.0\Proyectov1.0\bin\Debug\Proyectov1.0.pdb
+C:\Users\jr908\Desktop\Actualizado 23-04-19\ProyectoADSv2.1 ACTUALIZADO 23-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1.0.exe
+C:\Users\jr908\Desktop\Actualizado 23-04-19\ProyectoADSv2.1 ACTUALIZADO 23-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1.0.pdb
+C:\Users\jr908\Desktop\Actualizado 23-04-19\ProyectoADSv2.1 ACTUALIZADO 23-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.RecuperarContraseña.resources
+C:\Users\jr908\Desktop\Actualizado 23-04-19\ProyectoADSv2.1 ACTUALIZADO 23-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.ActualizarContraseña.resources
+C:\Users\jr908\Desktop\Actualizado 23-04-19\ProyectoADSv2.1 ACTUALIZADO 23-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1.0.csprojResolveAssemblyReference.cache
+C:\Users\josem\Desktop\Actualizado 26-04-19\ProyectoADSv2.1 ACTUALIZADO 26-4-19\Proyectov1.0\Proyectov1.0\bin\Debug\Proyectov1.0.exe.config
+C:\Users\josem\Desktop\Actualizado 26-04-19\ProyectoADSv2.1 ACTUALIZADO 26-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1.0.exe
+C:\Users\josem\Desktop\Actualizado 26-04-19\ProyectoADSv2.1 ACTUALIZADO 26-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1.0.pdb
+C:\Users\josem\Desktop\Actualizado 26-04-19\ProyectoADSv2.1 ACTUALIZADO 26-4-19\Proyectov1.0\Proyectov1.0\bin\Debug\Proyectov1.0.exe
+C:\Users\josem\Desktop\Actualizado 26-04-19\ProyectoADSv2.1 ACTUALIZADO 26-4-19\Proyectov1.0\Proyectov1.0\bin\Debug\Proyectov1.0.pdb
+C:\Users\josem\Desktop\Actualizado 26-04-19\ProyectoADSv2.1 ACTUALIZADO 26-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1.0.csprojResolveAssemblyReference.cache
+C:\Users\josem\Desktop\Actualizado 26-04-19\ProyectoADSv2.1 ACTUALIZADO 26-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.ActualizarContraseña.resources
+C:\Users\josem\Desktop\Actualizado 26-04-19\ProyectoADSv2.1 ACTUALIZADO 26-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.alumnos.resources
+C:\Users\josem\Desktop\Actualizado 26-04-19\ProyectoADSv2.1 ACTUALIZADO 26-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Cuarto_Grado.resources
+C:\Users\josem\Desktop\Actualizado 26-04-19\ProyectoADSv2.1 ACTUALIZADO 26-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Docentes.resources
+C:\Users\josem\Desktop\Actualizado 26-04-19\ProyectoADSv2.1 ACTUALIZADO 26-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.inicioalumnos.resources
+C:\Users\josem\Desktop\Actualizado 26-04-19\ProyectoADSv2.1 ACTUALIZADO 26-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Login.resources
+C:\Users\josem\Desktop\Actualizado 26-04-19\ProyectoADSv2.1 ACTUALIZADO 26-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.MenuPrincipal.resources
+C:\Users\josem\Desktop\Actualizado 26-04-19\ProyectoADSv2.1 ACTUALIZADO 26-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.MenuDocente.resources
+C:\Users\josem\Desktop\Actualizado 26-04-19\ProyectoADSv2.1 ACTUALIZADO 26-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Primer_Grado.resources
+C:\Users\josem\Desktop\Actualizado 26-04-19\ProyectoADSv2.1 ACTUALIZADO 26-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Properties.Resources.resources
+C:\Users\josem\Desktop\Actualizado 26-04-19\ProyectoADSv2.1 ACTUALIZADO 26-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Quinto_Grado.resources
+C:\Users\josem\Desktop\Actualizado 26-04-19\ProyectoADSv2.1 ACTUALIZADO 26-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.RecuperarContraseña.resources
+C:\Users\josem\Desktop\Actualizado 26-04-19\ProyectoADSv2.1 ACTUALIZADO 26-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Segundo_Grado.resources
+C:\Users\josem\Desktop\Actualizado 26-04-19\ProyectoADSv2.1 ACTUALIZADO 26-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Sexto_Grado.resources
+C:\Users\josem\Desktop\Actualizado 26-04-19\ProyectoADSv2.1 ACTUALIZADO 26-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Tercer_Grado.resources
+C:\Users\josem\Desktop\Actualizado 26-04-19\ProyectoADSv2.1 ACTUALIZADO 26-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1.0.csproj.GenerateResource.Cache
+C:\Users\josem\Desktop\Actualizado 28-04-19\ProyectoADSv2.1 ACTUALIZADO 28-4-19\Proyectov1.0\Proyectov1.0\bin\Debug\Proyectov1.0.exe.config
+C:\Users\josem\Desktop\Actualizado 28-04-19\ProyectoADSv2.1 ACTUALIZADO 28-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1.0.exe
+C:\Users\josem\Desktop\Actualizado 28-04-19\ProyectoADSv2.1 ACTUALIZADO 28-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1.0.pdb
+C:\Users\josem\Desktop\Actualizado 28-04-19\ProyectoADSv2.1 ACTUALIZADO 28-4-19\Proyectov1.0\Proyectov1.0\bin\Debug\Proyectov1.0.exe
+C:\Users\josem\Desktop\Actualizado 28-04-19\ProyectoADSv2.1 ACTUALIZADO 28-4-19\Proyectov1.0\Proyectov1.0\bin\Debug\Proyectov1.0.pdb
+C:\Users\josem\Desktop\Actualizado 28-04-19\ProyectoADSv2.1 ACTUALIZADO 28-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1.0.csprojResolveAssemblyReference.cache
+C:\Users\josem\Desktop\Actualizado 28-04-19\ProyectoADSv2.1 ACTUALIZADO 28-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.ActualizarContraseña.resources
+C:\Users\josem\Desktop\Actualizado 28-04-19\ProyectoADSv2.1 ACTUALIZADO 28-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.alumnos.resources
+C:\Users\josem\Desktop\Actualizado 28-04-19\ProyectoADSv2.1 ACTUALIZADO 28-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Cuarto_Grado.resources
+C:\Users\josem\Desktop\Actualizado 28-04-19\ProyectoADSv2.1 ACTUALIZADO 28-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Docentes.resources
+C:\Users\josem\Desktop\Actualizado 28-04-19\ProyectoADSv2.1 ACTUALIZADO 28-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.inicioalumnos.resources
+C:\Users\josem\Desktop\Actualizado 28-04-19\ProyectoADSv2.1 ACTUALIZADO 28-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Login.resources
+C:\Users\josem\Desktop\Actualizado 28-04-19\ProyectoADSv2.1 ACTUALIZADO 28-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.MenuPrincipal.resources
+C:\Users\josem\Desktop\Actualizado 28-04-19\ProyectoADSv2.1 ACTUALIZADO 28-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.MenuDocente.resources
+C:\Users\josem\Desktop\Actualizado 28-04-19\ProyectoADSv2.1 ACTUALIZADO 28-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Primer_Grado.resources
+C:\Users\josem\Desktop\Actualizado 28-04-19\ProyectoADSv2.1 ACTUALIZADO 28-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Properties.Resources.resources
+C:\Users\josem\Desktop\Actualizado 28-04-19\ProyectoADSv2.1 ACTUALIZADO 28-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Quinto_Grado.resources
+C:\Users\josem\Desktop\Actualizado 28-04-19\ProyectoADSv2.1 ACTUALIZADO 28-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.RecuperarContraseña.resources
+C:\Users\josem\Desktop\Actualizado 28-04-19\ProyectoADSv2.1 ACTUALIZADO 28-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Segundo_Grado.resources
+C:\Users\josem\Desktop\Actualizado 28-04-19\ProyectoADSv2.1 ACTUALIZADO 28-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Sexto_Grado.resources
+C:\Users\josem\Desktop\Actualizado 28-04-19\ProyectoADSv2.1 ACTUALIZADO 28-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Tercer_Grado.resources
+C:\Users\josem\Desktop\Actualizado 28-04-19\ProyectoADSv2.1 ACTUALIZADO 28-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1.0.csproj.GenerateResource.Cache
+C:\Users\Lisbeth\Desktop\Actualizado 30-04-19(ADS)\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\bin\Debug\Proyectov1.0.exe.config
+C:\Users\Lisbeth\Desktop\Actualizado 30-04-19(ADS)\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1.0.exe
+C:\Users\Lisbeth\Desktop\Actualizado 30-04-19(ADS)\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1.0.pdb
+C:\Users\Lisbeth\Desktop\Actualizado 30-04-19(ADS)\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\bin\Debug\Proyectov1.0.exe
+C:\Users\Lisbeth\Desktop\Actualizado 30-04-19(ADS)\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\bin\Debug\Proyectov1.0.pdb
+C:\Users\Lisbeth\Desktop\Actualizado 30-04-19(ADS)\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1.0.csprojResolveAssemblyReference.cache
+C:\Users\Lisbeth\Desktop\Actualizado 30-04-19(ADS)\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.ActualizarContraseña.resources
+C:\Users\Lisbeth\Desktop\Actualizado 30-04-19(ADS)\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.alumnos.resources
+C:\Users\Lisbeth\Desktop\Actualizado 30-04-19(ADS)\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Cuarto_Grado.resources
+C:\Users\Lisbeth\Desktop\Actualizado 30-04-19(ADS)\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Docentes.resources
+C:\Users\Lisbeth\Desktop\Actualizado 30-04-19(ADS)\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.inicioalumnos.resources
+C:\Users\Lisbeth\Desktop\Actualizado 30-04-19(ADS)\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Login.resources
+C:\Users\Lisbeth\Desktop\Actualizado 30-04-19(ADS)\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.MenuPrincipal.resources
+C:\Users\Lisbeth\Desktop\Actualizado 30-04-19(ADS)\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.MenuDocente.resources
+C:\Users\Lisbeth\Desktop\Actualizado 30-04-19(ADS)\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Primer_Grado.resources
+C:\Users\Lisbeth\Desktop\Actualizado 30-04-19(ADS)\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Properties.Resources.resources
+C:\Users\Lisbeth\Desktop\Actualizado 30-04-19(ADS)\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Quinto_Grado.resources
+C:\Users\Lisbeth\Desktop\Actualizado 30-04-19(ADS)\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.RecuperarContraseña.resources
+C:\Users\Lisbeth\Desktop\Actualizado 30-04-19(ADS)\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Segundo_Grado.resources
+C:\Users\Lisbeth\Desktop\Actualizado 30-04-19(ADS)\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Sexto_Grado.resources
+C:\Users\Lisbeth\Desktop\Actualizado 30-04-19(ADS)\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Tercer_Grado.resources
+C:\Users\Lisbeth\Desktop\Actualizado 30-04-19(ADS)\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1.0.csproj.GenerateResource.Cache
+C:\Users\Lisbeth\Desktop\Actualizado 30-04-19(ADS)\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.DocenteSegundo.resources
+C:\Users\Lisbeth\Desktop\Actualizado 30-04-19(ADS)\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.DocPrimerGrado.resources
+C:\Users\Lisbeth\Desktop\Actualizado 30-04-19(ADS)\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.DocenteCuarto.resources
+C:\Users\Lisbeth\Desktop\Actualizado 30-04-19(ADS)\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.DocenteQuinto.resources
+C:\Users\Lisbeth\Desktop\Actualizado 30-04-19(ADS)\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.DocenteSexto.resources
+C:\Users\Lisbeth\Desktop\Actualizado 30-04-19(ADS)\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.DocenteTercero.resources
+C:\Users\Lisbeth\Desktop\Actualizado 30-04-19(ADS)\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Notas_Primero.resources
+C:\Users\Lisbeth\Desktop\Actualizado 30-04-19(ADS)\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Leng1.resources
+C:\Users\Lisbeth\Desktop\Actualizado 30-04-19(ADS)\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Mate1.resources
+C:\Users\Lisbeth\Desktop\Actualizado 30-04-19(ADS)\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Ciencias1.resources
+C:\Users\Lisbeth\Desktop\Actualizado 30-04-19(ADS)\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Soci1.resources
+C:\Users\Lisbeth\Desktop\Actualizado 30-04-19(ADS)\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Mate2.resources
+C:\Users\Lisbeth\Desktop\Actualizado 30-04-19(ADS)\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Notas_Segundo.resources
+C:\Users\Lisbeth\Desktop\Actualizado 30-04-19(ADS)\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Ciencias2.resources
+C:\Users\Lisbeth\Desktop\Actualizado 30-04-19(ADS)\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Ciencias3.resources
+C:\Users\Lisbeth\Desktop\Actualizado 30-04-19(ADS)\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Ciencias4.resources
+C:\Users\Lisbeth\Desktop\Actualizado 30-04-19(ADS)\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Ciencias5.resources
+C:\Users\Lisbeth\Desktop\Actualizado 30-04-19(ADS)\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Ciencias6.resources
+C:\Users\Lisbeth\Desktop\Actualizado 30-04-19(ADS)\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Lenguaje2.resources
+C:\Users\Lisbeth\Desktop\Actualizado 30-04-19(ADS)\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Lenguaje3.resources
+C:\Users\Lisbeth\Desktop\Actualizado 30-04-19(ADS)\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Lenguaje4.resources
+C:\Users\Lisbeth\Desktop\Actualizado 30-04-19(ADS)\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Lenguaje5.resources
+C:\Users\Lisbeth\Desktop\Actualizado 30-04-19(ADS)\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Lenguaje6.resources
+C:\Users\Lisbeth\Desktop\Actualizado 30-04-19(ADS)\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Mate3.resources
+C:\Users\Lisbeth\Desktop\Actualizado 30-04-19(ADS)\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Mate4.resources
+C:\Users\Lisbeth\Desktop\Actualizado 30-04-19(ADS)\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Mate5.resources
+C:\Users\Lisbeth\Desktop\Actualizado 30-04-19(ADS)\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Mate6.resources
+C:\Users\Lisbeth\Desktop\Actualizado 30-04-19(ADS)\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Notas_Cuarto.resources
+C:\Users\Lisbeth\Desktop\Actualizado 30-04-19(ADS)\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Notas_Quinto.resources
+C:\Users\Lisbeth\Desktop\Actualizado 30-04-19(ADS)\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Notas_Sexto.resources
+C:\Users\Lisbeth\Desktop\Actualizado 30-04-19(ADS)\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Notas_Tercero.resources
+C:\Users\Lisbeth\Desktop\Actualizado 30-04-19(ADS)\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Sociales2.resources
+C:\Users\Lisbeth\Desktop\Actualizado 30-04-19(ADS)\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Sociales3.resources
+C:\Users\Lisbeth\Desktop\Actualizado 30-04-19(ADS)\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Sociales4.resources
+C:\Users\Lisbeth\Desktop\Actualizado 30-04-19(ADS)\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Sociales5.resources
+C:\Users\Lisbeth\Desktop\Actualizado 30-04-19(ADS)\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Sociales6.resources
+C:\Users\Lisbeth\Desktop\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\bin\Debug\Proyectov1.0.exe.config
+C:\Users\Lisbeth\Desktop\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1.0.exe
+C:\Users\Lisbeth\Desktop\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1.0.pdb
+C:\Users\Lisbeth\Desktop\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\bin\Debug\Proyectov1.0.exe
+C:\Users\Lisbeth\Desktop\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\bin\Debug\Proyectov1.0.pdb
+C:\Users\Lisbeth\Desktop\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1.0.csprojResolveAssemblyReference.cache
+C:\Users\Lisbeth\Desktop\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.ActualizarContraseña.resources
+C:\Users\Lisbeth\Desktop\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.alumnos.resources
+C:\Users\Lisbeth\Desktop\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Ciencias1.resources
+C:\Users\Lisbeth\Desktop\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Ciencias2.resources
+C:\Users\Lisbeth\Desktop\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Ciencias3.resources
+C:\Users\Lisbeth\Desktop\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Ciencias4.resources
+C:\Users\Lisbeth\Desktop\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Ciencias5.resources
+C:\Users\Lisbeth\Desktop\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Ciencias6.resources
+C:\Users\Lisbeth\Desktop\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Cuarto_Grado.resources
+C:\Users\Lisbeth\Desktop\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.DocenteCuarto.resources
+C:\Users\Lisbeth\Desktop\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.DocenteQuinto.resources
+C:\Users\Lisbeth\Desktop\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Docentes.resources
+C:\Users\Lisbeth\Desktop\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.DocenteSegundo.resources
+C:\Users\Lisbeth\Desktop\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.DocenteSexto.resources
+C:\Users\Lisbeth\Desktop\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.DocenteTercero.resources
+C:\Users\Lisbeth\Desktop\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.DocPrimerGrado.resources
+C:\Users\Lisbeth\Desktop\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.inicioalumnos.resources
+C:\Users\Lisbeth\Desktop\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Leng1.resources
+C:\Users\Lisbeth\Desktop\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Lenguaje2.resources
+C:\Users\Lisbeth\Desktop\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Lenguaje3.resources
+C:\Users\Lisbeth\Desktop\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Lenguaje4.resources
+C:\Users\Lisbeth\Desktop\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Lenguaje5.resources
+C:\Users\Lisbeth\Desktop\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Lenguaje6.resources
+C:\Users\Lisbeth\Desktop\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Login.resources
+C:\Users\Lisbeth\Desktop\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Mate1.resources
+C:\Users\Lisbeth\Desktop\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Mate2.resources
+C:\Users\Lisbeth\Desktop\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Mate3.resources
+C:\Users\Lisbeth\Desktop\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Mate4.resources
+C:\Users\Lisbeth\Desktop\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Mate5.resources
+C:\Users\Lisbeth\Desktop\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Mate6.resources
+C:\Users\Lisbeth\Desktop\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.MenuPrincipal.resources
+C:\Users\Lisbeth\Desktop\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.MenuDocente.resources
+C:\Users\Lisbeth\Desktop\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Notas_Cuarto.resources
+C:\Users\Lisbeth\Desktop\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Notas_Primero.resources
+C:\Users\Lisbeth\Desktop\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Notas_Quinto.resources
+C:\Users\Lisbeth\Desktop\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Notas_Segundo.resources
+C:\Users\Lisbeth\Desktop\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Notas_Sexto.resources
+C:\Users\Lisbeth\Desktop\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Notas_Tercero.resources
+C:\Users\Lisbeth\Desktop\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Primer_Grado.resources
+C:\Users\Lisbeth\Desktop\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Properties.Resources.resources
+C:\Users\Lisbeth\Desktop\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Quinto_Grado.resources
+C:\Users\Lisbeth\Desktop\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.RecuperarContraseña.resources
+C:\Users\Lisbeth\Desktop\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Segundo_Grado.resources
+C:\Users\Lisbeth\Desktop\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Sexto_Grado.resources
+C:\Users\Lisbeth\Desktop\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Soci1.resources
+C:\Users\Lisbeth\Desktop\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Sociales2.resources
+C:\Users\Lisbeth\Desktop\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Sociales3.resources
+C:\Users\Lisbeth\Desktop\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Sociales4.resources
+C:\Users\Lisbeth\Desktop\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Sociales5.resources
+C:\Users\Lisbeth\Desktop\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Sociales6.resources
+C:\Users\Lisbeth\Desktop\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Tercer_Grado.resources
+C:\Users\Lisbeth\Desktop\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1.0.csproj.GenerateResource.Cache
+C:\Users\Lisbeth\Desktop\Material_ADS\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\bin\Debug\Proyectov1.0.exe.config
+C:\Users\Lisbeth\Desktop\Material_ADS\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1.0.exe
+C:\Users\Lisbeth\Desktop\Material_ADS\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1.0.pdb
+C:\Users\Lisbeth\Desktop\Universidad\Material Ciclo01_19\Material_ADS\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\bin\Debug\Proyectov1.0.exe.config
+C:\Users\Lisbeth\Desktop\Universidad\Material Ciclo01_19\Material_ADS\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1.0.exe
+C:\Users\Lisbeth\Desktop\Universidad\Material Ciclo01_19\Material_ADS\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1.0.pdb
+C:\Users\Lisbeth\Desktop\Carpetas\Universidad\2019\Ciclo1_2019\Material_ADS\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\bin\Debug\Proyectov1.0.exe.config
+C:\Users\Lisbeth\Desktop\Carpetas\Universidad\2019\Ciclo1_2019\Material_ADS\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1.0.exe
+C:\Users\Lisbeth\Desktop\Carpetas\Universidad\2019\Ciclo1_2019\Material_ADS\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1.0.pdb
+C:\Users\Lisbeth\Desktop\Carpetas\Universidad\2019\Ciclo1_2019\Material_ADS\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\bin\Debug\Proyectov1.0.exe
+C:\Users\Lisbeth\Desktop\Carpetas\Universidad\2019\Ciclo1_2019\Material_ADS\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1.0.csprojResolveAssemblyReference.cache
+C:\Users\Lisbeth\Desktop\Carpetas\Universidad\2019\Ciclo1_2019\Material_ADS\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.ActualizarContraseña.resources
+C:\Users\Lisbeth\Desktop\Carpetas\Universidad\2019\Ciclo1_2019\Material_ADS\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.alumnos.resources
+C:\Users\Lisbeth\Desktop\Carpetas\Universidad\2019\Ciclo1_2019\Material_ADS\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Ciencias1.resources
+C:\Users\Lisbeth\Desktop\Carpetas\Universidad\2019\Ciclo1_2019\Material_ADS\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Ciencias2.resources
+C:\Users\Lisbeth\Desktop\Carpetas\Universidad\2019\Ciclo1_2019\Material_ADS\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Ciencias3.resources
+C:\Users\Lisbeth\Desktop\Carpetas\Universidad\2019\Ciclo1_2019\Material_ADS\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Ciencias4.resources
+C:\Users\Lisbeth\Desktop\Carpetas\Universidad\2019\Ciclo1_2019\Material_ADS\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Ciencias5.resources
+C:\Users\Lisbeth\Desktop\Carpetas\Universidad\2019\Ciclo1_2019\Material_ADS\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Ciencias6.resources
+C:\Users\Lisbeth\Desktop\Carpetas\Universidad\2019\Ciclo1_2019\Material_ADS\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Cuarto_Grado.resources
+C:\Users\Lisbeth\Desktop\Carpetas\Universidad\2019\Ciclo1_2019\Material_ADS\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.DocenteCuarto.resources
+C:\Users\Lisbeth\Desktop\Carpetas\Universidad\2019\Ciclo1_2019\Material_ADS\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.DocenteQuinto.resources
+C:\Users\Lisbeth\Desktop\Carpetas\Universidad\2019\Ciclo1_2019\Material_ADS\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Docentes.resources
+C:\Users\Lisbeth\Desktop\Carpetas\Universidad\2019\Ciclo1_2019\Material_ADS\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.DocenteSegundo.resources
+C:\Users\Lisbeth\Desktop\Carpetas\Universidad\2019\Ciclo1_2019\Material_ADS\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.DocenteSexto.resources
+C:\Users\Lisbeth\Desktop\Carpetas\Universidad\2019\Ciclo1_2019\Material_ADS\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.DocenteTercero.resources
+C:\Users\Lisbeth\Desktop\Carpetas\Universidad\2019\Ciclo1_2019\Material_ADS\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.DocPrimerGrado.resources
+C:\Users\Lisbeth\Desktop\Carpetas\Universidad\2019\Ciclo1_2019\Material_ADS\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.inicioalumnos.resources
+C:\Users\Lisbeth\Desktop\Carpetas\Universidad\2019\Ciclo1_2019\Material_ADS\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Leng1.resources
+C:\Users\Lisbeth\Desktop\Carpetas\Universidad\2019\Ciclo1_2019\Material_ADS\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Lenguaje2.resources
+C:\Users\Lisbeth\Desktop\Carpetas\Universidad\2019\Ciclo1_2019\Material_ADS\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Lenguaje3.resources
+C:\Users\Lisbeth\Desktop\Carpetas\Universidad\2019\Ciclo1_2019\Material_ADS\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Lenguaje4.resources
+C:\Users\Lisbeth\Desktop\Carpetas\Universidad\2019\Ciclo1_2019\Material_ADS\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Lenguaje5.resources
+C:\Users\Lisbeth\Desktop\Carpetas\Universidad\2019\Ciclo1_2019\Material_ADS\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Lenguaje6.resources
+C:\Users\Lisbeth\Desktop\Carpetas\Universidad\2019\Ciclo1_2019\Material_ADS\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Login.resources
+C:\Users\Lisbeth\Desktop\Carpetas\Universidad\2019\Ciclo1_2019\Material_ADS\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Mate1.resources
+C:\Users\Lisbeth\Desktop\Carpetas\Universidad\2019\Ciclo1_2019\Material_ADS\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Mate2.resources
+C:\Users\Lisbeth\Desktop\Carpetas\Universidad\2019\Ciclo1_2019\Material_ADS\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Mate3.resources
+C:\Users\Lisbeth\Desktop\Carpetas\Universidad\2019\Ciclo1_2019\Material_ADS\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Mate4.resources
+C:\Users\Lisbeth\Desktop\Carpetas\Universidad\2019\Ciclo1_2019\Material_ADS\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Mate5.resources
+C:\Users\Lisbeth\Desktop\Carpetas\Universidad\2019\Ciclo1_2019\Material_ADS\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Mate6.resources
+C:\Users\Lisbeth\Desktop\Carpetas\Universidad\2019\Ciclo1_2019\Material_ADS\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.MenuPrincipal.resources
+C:\Users\Lisbeth\Desktop\Carpetas\Universidad\2019\Ciclo1_2019\Material_ADS\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.MenuDocente.resources
+C:\Users\Lisbeth\Desktop\Carpetas\Universidad\2019\Ciclo1_2019\Material_ADS\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Notas_Cuarto.resources
+C:\Users\Lisbeth\Desktop\Carpetas\Universidad\2019\Ciclo1_2019\Material_ADS\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Notas_Primero.resources
+C:\Users\Lisbeth\Desktop\Carpetas\Universidad\2019\Ciclo1_2019\Material_ADS\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Notas_Quinto.resources
+C:\Users\Lisbeth\Desktop\Carpetas\Universidad\2019\Ciclo1_2019\Material_ADS\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Notas_Segundo.resources
+C:\Users\Lisbeth\Desktop\Carpetas\Universidad\2019\Ciclo1_2019\Material_ADS\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Notas_Sexto.resources
+C:\Users\Lisbeth\Desktop\Carpetas\Universidad\2019\Ciclo1_2019\Material_ADS\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Notas_Tercero.resources
+C:\Users\Lisbeth\Desktop\Carpetas\Universidad\2019\Ciclo1_2019\Material_ADS\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Primer_Grado.resources
+C:\Users\Lisbeth\Desktop\Carpetas\Universidad\2019\Ciclo1_2019\Material_ADS\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Properties.Resources.resources
+C:\Users\Lisbeth\Desktop\Carpetas\Universidad\2019\Ciclo1_2019\Material_ADS\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Quinto_Grado.resources
+C:\Users\Lisbeth\Desktop\Carpetas\Universidad\2019\Ciclo1_2019\Material_ADS\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.RecuperarContraseña.resources
+C:\Users\Lisbeth\Desktop\Carpetas\Universidad\2019\Ciclo1_2019\Material_ADS\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Segundo_Grado.resources
+C:\Users\Lisbeth\Desktop\Carpetas\Universidad\2019\Ciclo1_2019\Material_ADS\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Sexto_Grado.resources
+C:\Users\Lisbeth\Desktop\Carpetas\Universidad\2019\Ciclo1_2019\Material_ADS\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Soci1.resources
+C:\Users\Lisbeth\Desktop\Carpetas\Universidad\2019\Ciclo1_2019\Material_ADS\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Sociales2.resources
+C:\Users\Lisbeth\Desktop\Carpetas\Universidad\2019\Ciclo1_2019\Material_ADS\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Sociales3.resources
+C:\Users\Lisbeth\Desktop\Carpetas\Universidad\2019\Ciclo1_2019\Material_ADS\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Sociales4.resources
+C:\Users\Lisbeth\Desktop\Carpetas\Universidad\2019\Ciclo1_2019\Material_ADS\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Sociales5.resources
+C:\Users\Lisbeth\Desktop\Carpetas\Universidad\2019\Ciclo1_2019\Material_ADS\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Sociales6.resources
+C:\Users\Lisbeth\Desktop\Carpetas\Universidad\2019\Ciclo1_2019\Material_ADS\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1._0.Tercer_Grado.resources
+C:\Users\Lisbeth\Desktop\Carpetas\Universidad\2019\Ciclo1_2019\Material_ADS\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\obj\Debug\Proyectov1.0.csproj.GenerateResource.Cache
+C:\Users\Lisbeth\Desktop\Carpetas\Universidad\2019\Ciclo1_2019\Material_ADS\Actualizado5_05_19\ProyectoADSv2.1 ACTUALIZADO 30-4-19\Proyectov1.0\Proyectov1.0\bin\Debug\Proyectov1.0.pdb

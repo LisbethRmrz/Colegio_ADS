@@ -1,0 +1,744 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{FDEE6ED5-3548-4426-B8F9-0BC483CF4E01}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Proyectov1._0</RootNamespace>
+    <AssemblyName>Proyectov1.0</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ActualizarContraseña.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ActualizarContraseña.Designer.cs">
+      <DependentUpon>ActualizarContraseña.cs</DependentUpon>
+    </Compile>
+    <Compile Include="alumnos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="alumnos.Designer.cs">
+      <DependentUpon>alumnos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ciencias1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ciencias1.Designer.cs">
+      <DependentUpon>Ciencias1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ciencias2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ciencias2.Designer.cs">
+      <DependentUpon>Ciencias2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ciencias3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ciencias3.Designer.cs">
+      <DependentUpon>Ciencias3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ciencias4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ciencias4.Designer.cs">
+      <DependentUpon>Ciencias4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ciencias5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ciencias5.Designer.cs">
+      <DependentUpon>Ciencias5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ciencias6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ciencias6.Designer.cs">
+      <DependentUpon>Ciencias6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Conexion.cs" />
+    <Compile Include="Cuarto_Grado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cuarto_Grado.Designer.cs">
+      <DependentUpon>Cuarto_Grado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DocenteCuarto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DocenteCuarto.Designer.cs">
+      <DependentUpon>DocenteCuarto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DocenteQuinto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DocenteQuinto.Designer.cs">
+      <DependentUpon>DocenteQuinto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Docentes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Docentes.Designer.cs">
+      <DependentUpon>Docentes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DocenteSegundo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DocenteSegundo.Designer.cs">
+      <DependentUpon>DocenteSegundo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DocenteSexto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DocenteSexto.Designer.cs">
+      <DependentUpon>DocenteSexto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DocenteTercero.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DocenteTercero.Designer.cs">
+      <DependentUpon>DocenteTercero.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DocPrimerGrado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DocPrimerGrado.Designer.cs">
+      <DependentUpon>DocPrimerGrado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="inicioalumnos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="inicioalumnos.Designer.cs">
+      <DependentUpon>inicioalumnos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Leng1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Leng1.Designer.cs">
+      <DependentUpon>Leng1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lenguaje2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lenguaje2.Designer.cs">
+      <DependentUpon>Lenguaje2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lenguaje3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lenguaje3.Designer.cs">
+      <DependentUpon>Lenguaje3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lenguaje4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lenguaje4.Designer.cs">
+      <DependentUpon>Lenguaje4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lenguaje5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lenguaje5.Designer.cs">
+      <DependentUpon>Lenguaje5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lenguaje6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lenguaje6.Designer.cs">
+      <DependentUpon>Lenguaje6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mate1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mate1.Designer.cs">
+      <DependentUpon>Mate1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mate2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mate2.Designer.cs">
+      <DependentUpon>Mate2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mate3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mate3.Designer.cs">
+      <DependentUpon>Mate3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mate4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mate4.Designer.cs">
+      <DependentUpon>Mate4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mate5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mate5.Designer.cs">
+      <DependentUpon>Mate5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mate6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mate6.Designer.cs">
+      <DependentUpon>Mate6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuPrincipal.Designer.cs">
+      <DependentUpon>MenuPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuDocente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuDocente.Designer.cs">
+      <DependentUpon>MenuDocente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Notas_Cuarto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Notas_Cuarto.Designer.cs">
+      <DependentUpon>Notas_Cuarto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Notas_Primero.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Notas_Primero.Designer.cs">
+      <DependentUpon>Notas_Primero.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Notas_Quinto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Notas_Quinto.Designer.cs">
+      <DependentUpon>Notas_Quinto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Notas_Segundo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Notas_Segundo.Designer.cs">
+      <DependentUpon>Notas_Segundo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Notas_Sexto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Notas_Sexto.Designer.cs">
+      <DependentUpon>Notas_Sexto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Notas_Tercero.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Notas_Tercero.Designer.cs">
+      <DependentUpon>Notas_Tercero.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Primer Grado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Primer Grado.Designer.cs">
+      <DependentUpon>Primer Grado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ProyectoDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ProyectoDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ProyectoDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ProyectoDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ProyectoDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ProyectoDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Proyecto_ADataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Proyecto_ADataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Quinto_Grado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Quinto_Grado.Designer.cs">
+      <DependentUpon>Quinto_Grado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RecuperarContraseña.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RecuperarContraseña.Designer.cs">
+      <DependentUpon>RecuperarContraseña.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Segundo_Grado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Segundo_Grado.Designer.cs">
+      <DependentUpon>Segundo_Grado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sexto_Grado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sexto_Grado.Designer.cs">
+      <DependentUpon>Sexto_Grado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Soci1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Soci1.Designer.cs">
+      <DependentUpon>Soci1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sociales2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sociales2.Designer.cs">
+      <DependentUpon>Sociales2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sociales3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sociales3.Designer.cs">
+      <DependentUpon>Sociales3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sociales4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sociales4.Designer.cs">
+      <DependentUpon>Sociales4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sociales5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sociales5.Designer.cs">
+      <DependentUpon>Sociales5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sociales6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sociales6.Designer.cs">
+      <DependentUpon>Sociales6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tercer_Grado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tercer_Grado.Designer.cs">
+      <DependentUpon>Tercer_Grado.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ActualizarContraseña.resx">
+      <DependentUpon>ActualizarContraseña.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="alumnos.resx">
+      <DependentUpon>alumnos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ciencias1.resx">
+      <DependentUpon>Ciencias1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ciencias2.resx">
+      <DependentUpon>Ciencias2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ciencias3.resx">
+      <DependentUpon>Ciencias3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ciencias4.resx">
+      <DependentUpon>Ciencias4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ciencias5.resx">
+      <DependentUpon>Ciencias5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ciencias6.resx">
+      <DependentUpon>Ciencias6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cuarto_Grado.resx">
+      <DependentUpon>Cuarto_Grado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DocenteCuarto.resx">
+      <DependentUpon>DocenteCuarto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DocenteQuinto.resx">
+      <DependentUpon>DocenteQuinto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Docentes.resx">
+      <DependentUpon>Docentes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DocenteSegundo.resx">
+      <DependentUpon>DocenteSegundo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DocenteSexto.resx">
+      <DependentUpon>DocenteSexto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DocenteTercero.resx">
+      <DependentUpon>DocenteTercero.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DocPrimerGrado.resx">
+      <DependentUpon>DocPrimerGrado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="inicioalumnos.resx">
+      <DependentUpon>inicioalumnos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Leng1.resx">
+      <DependentUpon>Leng1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lenguaje2.resx">
+      <DependentUpon>Lenguaje2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lenguaje3.resx">
+      <DependentUpon>Lenguaje3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lenguaje4.resx">
+      <DependentUpon>Lenguaje4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lenguaje5.resx">
+      <DependentUpon>Lenguaje5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lenguaje6.resx">
+      <DependentUpon>Lenguaje6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mate1.resx">
+      <DependentUpon>Mate1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mate2.resx">
+      <DependentUpon>Mate2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mate3.resx">
+      <DependentUpon>Mate3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mate4.resx">
+      <DependentUpon>Mate4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mate5.resx">
+      <DependentUpon>Mate5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mate6.resx">
+      <DependentUpon>Mate6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuPrincipal.resx">
+      <DependentUpon>MenuPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuDocente.resx">
+      <DependentUpon>MenuDocente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Notas_Cuarto.resx">
+      <DependentUpon>Notas_Cuarto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Notas_Primero.resx">
+      <DependentUpon>Notas_Primero.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Notas_Quinto.resx">
+      <DependentUpon>Notas_Quinto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Notas_Segundo.resx">
+      <DependentUpon>Notas_Segundo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Notas_Sexto.resx">
+      <DependentUpon>Notas_Sexto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Notas_Tercero.resx">
+      <DependentUpon>Notas_Tercero.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Primer Grado.resx">
+      <DependentUpon>Primer Grado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Quinto_Grado.resx">
+      <DependentUpon>Quinto_Grado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RecuperarContraseña.resx">
+      <DependentUpon>RecuperarContraseña.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Segundo_Grado.resx">
+      <DependentUpon>Segundo_Grado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sexto_Grado.resx">
+      <DependentUpon>Sexto_Grado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Soci1.resx">
+      <DependentUpon>Soci1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sociales2.resx">
+      <DependentUpon>Sociales2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sociales3.resx">
+      <DependentUpon>Sociales3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sociales4.resx">
+      <DependentUpon>Sociales4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sociales5.resx">
+      <DependentUpon>Sociales5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sociales6.resx">
+      <DependentUpon>Sociales6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tercer_Grado.resx">
+      <DependentUpon>Tercer_Grado.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ProyectoDataSet.xsc">
+      <DependentUpon>ProyectoDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ProyectoDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ProyectoDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ProyectoDataSet.xss">
+      <DependentUpon>ProyectoDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ProyectoDataSet1.xsc">
+      <DependentUpon>ProyectoDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="ProyectoDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ProyectoDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ProyectoDataSet1.xss">
+      <DependentUpon>ProyectoDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="ProyectoDataSet2.xsc">
+      <DependentUpon>ProyectoDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="ProyectoDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ProyectoDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ProyectoDataSet2.xss">
+      <DependentUpon>ProyectoDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="Proyecto_ADataSet.xsc">
+      <DependentUpon>Proyecto_ADataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Proyecto_ADataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Proyecto_ADataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Proyecto_ADataSet.xss">
+      <DependentUpon>Proyecto_ADataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\menu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\inicio.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cerrar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\max.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\min.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\restaurar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\alumnos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\primero.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\guardar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clientes.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\guardar1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fondo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon cerrar2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon maximizar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon restaurar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon minimizar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\card.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\number-one-in-a-circle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\number-one-in-a-circle1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\number-one-in-a-circle3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\number-one-in-a-circle4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\number-two-in-a-circle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\number-three-in-a-circle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\number-four-in-circular-button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\number-five-in-circular-button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\number-six-in-a-circle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\left-arrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\inicio1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menu1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\instructor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\graduate-student-avatar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exam.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\power.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clientes1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download-button1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\number.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\number %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\number %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\number %283%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\number %284%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\number-six-in-a-circle1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Arcoiris.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arco.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\percentage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\book.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\laboratory.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\worldwide.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
